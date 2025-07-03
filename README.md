@@ -1,4 +1,4 @@
-# Task Manager API
+# Task Manager API (Backend)
 
 This is a simple Task Manager API built using Node.js, Express.js, and MongoDB. It supports user registration and authentication using JWT and allows users to perform full CRUD operations on tasks. Each task is associated with a specific authenticated user.
 
