@@ -111,6 +111,7 @@ Server runs on: `http://localhost:5000`
   }
   ```
 
+
 2. **Login**
 - Method: `POST`
 - URL: `http://localhost:5000/api/users/login`
@@ -123,6 +124,7 @@ Server runs on: `http://localhost:5000`
   ```
 - Copy the `token` from response for the next requests
 
+
 3. **Get All Tasks**
 - Method: `GET`
 - URL: `http://localhost:5000/api/tasks`
@@ -130,6 +132,7 @@ Server runs on: `http://localhost:5000`
   ```
   Authorization: Bearer <token>
   ```
+
 
 4. **Create Task**
 - Method: `POST`
@@ -146,6 +149,7 @@ Server runs on: `http://localhost:5000`
   }
   ```
 
+
 5. **Update Task**
 - Method: `PUT`
 - URL: `http://localhost:5000/api/tasks/<task_id>`
@@ -159,6 +163,7 @@ Server runs on: `http://localhost:5000`
     "completed": true
   }
   ```
+
 
 6. **Delete Task**
 - Method: `DELETE`
