@@ -16,8 +16,8 @@ This is a simple Task Manager API built using Node.js, Express.js, and MongoDB. 
 - `Express.js`
 - `MongoDB`
 - `JSON Web Token (JWT)`
-- `Bcrypt.js (for password hashing)`
-- `Postman (for testing)`
+- `Bcrypt.js` (for password hashing)
+- `Postman` (for testing)
 
 ## Folder Structure
 
