@@ -44,7 +44,7 @@ Task_Manager_API/
 1. **Clone the repository**  
 
 ```
-git clone https://github.com/saarv3sh7/Task_Manager_API.git
+git clone https://github.com/saarv3sh7/Task-Manager-API.git
 cd Task_Manager_API
 ```
 
