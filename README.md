@@ -39,7 +39,7 @@ Task_Manager_API/
 ├── server.js
 ```
 
-## Setup Instructions (for Mac M1)
+## Setup Instructions (for Mac)
 
 1. **Clone the repository**  
 
