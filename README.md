@@ -81,10 +81,10 @@ Server runs on: `http://localhost:5000`
 
 ### User Routes
 
-| Method | Endpoint             | Description            | Protected |
-|--------|----------------------|------------------------|-----------|
-| POST   | /api/users/register  | Register new user      | No        |
-| POST   | /api/users/login     | Login and get JWT      | No        |
+| Method | Endpoint             | Description            |
+|--------|----------------------|------------------------|
+| POST   | /api/users/register  | Register new user      |
+| POST   | /api/users/login     | Login and get JWT      |
 
 ### Task Routes (Require Bearer Token)
 
